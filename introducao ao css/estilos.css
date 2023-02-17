@@ -1,0 +1,24 @@
+body {
+    background-color: peru;
+}
+
+p {
+    color: powderblue
+}
+
+#segundo {
+    background-color: slateblue;
+    color: rgb(255, 4, 4);
+    font-size: 45px;
+    border-radius: 10px;
+    border: 3px solid purple;
+}
+
+.diferente {
+    background-color: black;
+    color: cornsilk;
+    font-weight: bold;
+    border: black;
+    border-radius: 8px;
+    font-size: 24px;
+}
